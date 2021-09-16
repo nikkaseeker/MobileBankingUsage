@@ -1,0 +1,17 @@
+
+aspect 1 -8/10
+Age and job might need to changed as questions with suggestions. (-)
+enough and relavent questions for demographic (+)
+
+aspect 2 - 8/10
+More questions might need to add to collect data on security and imporvments aspects (-)
+Too many options to choose from 'how often' questions which might leeds to ambiguity. Users might not be aware to give information to that depth (-)
+All mobile features are covered using a simple question 'i use it' 'i dont use it' (+)
+
+aspect 3 - 8/10
+a prior discription is given to have an idea on the survey (+)
+clear and understandable questions (+)
+most questions were given options to choose from which is easier to the user (+)
+some questions have too many options which might make the users think harder and uncomfortable (-)
+only one language is used (-)
+                
